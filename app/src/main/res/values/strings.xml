@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">Test1</string>
     <string name="button_text" translatable="false">Нажми на меня</string>
+    <string name="calc_text" translatable="false">Калькулятор</string>
+    <string name="calc_hint1" translatable="false">Введите первое число</string>
+    <string name="calc_hint2" translatable="false">Введите второе число</string>
 </resources>
