@@ -1,6 +1,9 @@
 package com.example.test1;
 
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -9,6 +12,11 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
+
+        private TextView resulText;
+        private EditText editTextText_1, editTextText_2;
+        private Button button_1;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
