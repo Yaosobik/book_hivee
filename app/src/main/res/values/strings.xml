@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Test1</string>
+    <string name="button_text" translatable="false">Нажми на меня</string>
+</resources>
