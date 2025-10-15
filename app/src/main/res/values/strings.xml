@@ -5,4 +5,5 @@
     <string name="calc_hint1" translatable="false">Введите первое число</string>
     <string name="calc_hint2" translatable="false">Введите второе число</string>
     <string name="calc_knopka1" translatable="false">Добвыить числа</string>
+    <string name="izo" translatable="false">jinx</string>
 </resources>

@@ -23,7 +23,6 @@ public class SecondActivity extends AppCompatActivity {
             return insets;
         });
     }
-
     public void downPage(View v) {
         Intent intent1 = new Intent(this, MainActivity.class);
         startActivity(intent1);

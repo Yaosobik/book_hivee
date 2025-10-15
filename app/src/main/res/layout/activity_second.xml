@@ -8,13 +8,13 @@
     tools:context=".SecondActivity">
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="320dp"
-        android:layout_marginEnd="144dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="188dp"
         android:onClick="downPage"
-        android:text="Dowm page"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Button"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
