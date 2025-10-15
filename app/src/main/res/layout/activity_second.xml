@@ -5,16 +5,16 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".SecondActivity">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="148dp"
-        android:layout_marginTop="304dp"
-        android:onClick="nextPage"
-        android:text="Next page"
-        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="320dp"
+        android:layout_marginEnd="144dp"
+        android:onClick="downPage"
+        android:text="Dowm page"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
